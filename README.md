@@ -1,4 +1,4 @@
-<p style="text-align: center"><img src="https://github.com/jfpasixm/zipcomment/blob/main/img/screenshot.png" alt="screenshot"></p>
+<p style="text-align: center"><img src="https://github.com/jfpasixm/phpzipcomment/blob/main/img/screenshot.png" alt="screenshot"></p>
 
 Initially coded last April 25, 2018. Rechecked for compatability with PHP 8.2 on July 24, 2023
 
@@ -15,4 +15,4 @@ Copy the files to htdocs folder
 (Mine is C:\xampp\htdocs\ using xampp, yours might be different)
 
 ### How to run
-Open your browser, then navigate to http://localhost/zipcomment/ and press "Enter"<br>(Your test URL might be different)
+Open your browser, then navigate to http://localhost/phpzipcomment/ and press "Enter"<br>(Your test URL might be different)
